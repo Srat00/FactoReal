@@ -1,0 +1,1 @@
+global.stselect  = 1;

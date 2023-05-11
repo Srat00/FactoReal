@@ -1,0 +1,1 @@
+global.die = 1;

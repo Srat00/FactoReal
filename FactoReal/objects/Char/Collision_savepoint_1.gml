@@ -1,0 +1,2 @@
+global.save =1
+

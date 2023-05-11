@@ -1,0 +1,39 @@
+!!! gamefont 글꼴이 이 시스템에 설치되지 않은 글꼴(Myriad Pro Light)을 사용합니다. 글꼴이 다시 생성되지 않았습니다.
+GameMaker Studio 1 글꼴 텍스처가 ${project_dir}\fonts\gamefont\gamefont.gms1.png에서 백업되었습니다.
+사운드의 오디오 그룹 누락됨: 'End_BGM' - 기본 오디오 그룹으로 설정
+사운드의 오디오 그룹 누락됨: 'Stage1_BGM' - 기본 오디오 그룹으로 설정
+사운드의 오디오 그룹 누락됨: 'Menu_BGM' - 기본 오디오 그룹으로 설정
+사운드의 오디오 그룹 누락됨: 'Stage2_BGM' - 기본 오디오 그룹으로 설정
+사운드의 오디오 그룹 누락됨: 'Stage3_BGM' - 기본 오디오 그룹으로 설정
+사운드의 오디오 그룹 누락됨: 'Stage4_BGM' - 기본 오디오 그룹으로 설정
+게임 스피드가 60(으)로 설정됨
+호환성 스크립트 'action/action_another_room.gml' 추가됨
+호환성 스크립트 'action/action_create_object.gml' 추가됨
+호환성 스크립트 'action/action_current_room.gml' 추가됨
+호환성 스크립트 'action/action_effect.gml' 추가됨
+호환성 스크립트 'action/action_end_game.gml' 추가됨
+호환성 스크립트 'action/action_end_sound.gml' 추가됨
+호환성 스크립트 'action/action_if_object.gml' 추가됨
+호환성 스크립트 'action/action_if_sound.gml' 추가됨
+호환성 스크립트 'action/action_if_variable.gml' 추가됨
+호환성 스크립트 'action/action_kill_object.gml' 추가됨
+호환성 스크립트 'action/action_load_game.gml' 추가됨
+호환성 스크립트 'action/action_move.gml' 추가됨
+호환성 스크립트 'action/action_move_contact.gml' 추가됨
+호환성 스크립트 'action/action_move_to.gml' 추가됨
+호환성 스크립트 'action/action_next_room.gml' 추가됨
+호환성 스크립트 'action/action_save_game.gml' 추가됨
+호환성 스크립트 'action/action_set_alarm.gml' 추가됨
+호환성 스크립트 'action/action_set_cursor.gml' 추가됨
+호환성 스크립트 'action/action_set_gravity.gml' 추가됨
+호환성 스크립트 'action/action_set_relative.gml' 추가됨
+호환성 스크립트 'action/action_set_vspeed.gml' 추가됨
+호환성 스크립트 'action/action_sound.gml' 추가됨
+호환성 스크립트 'action/action_sprite_set.gml' 추가됨
+호환성 스크립트 'action/action_timeline_set.gml' 추가됨
+호환성 스크립트 'action/action_timeline_start.gml' 추가됨
+호환성 스크립트 'instance/instance_create.gml' 추가됨
+호환성 스크립트 'object/object_get_depth.gml' 추가됨
+호환성 스크립트 'action/__init_action.gml' 추가됨
+호환성 스크립트 '__init_global.gml' 추가됨
+호환성 스크립트 '__global_object_depths.gml' 추가됨
